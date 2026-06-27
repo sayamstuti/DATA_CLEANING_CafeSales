@@ -19,7 +19,6 @@ The objective of this project is to identify and fix common data quality issues 
 - [Standardization](#standardization)
 - [Outlier Detection & Visualization](#outlier-detection--visualization)
 - [Saving the Cleaned Dataset](#saving-the-cleaned-dataset)
-- [Project Structure](#project-structure)
 - [Results](#results)
 
 ---
