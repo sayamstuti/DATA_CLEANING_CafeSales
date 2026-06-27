@@ -190,5 +190,7 @@ df.to_csv("cleaned_cafe_sales.csv", index=False)
 7.  Exported a clean dataset ready for analysis
 
 ---
-
-## ⭐ If you found this project useful, consider giving it a star!
+# Author
+**SAYAM STUTI SHUVADARSINI
+Email:sayamstuti594@gmail.com
+LinkedIn-www.linkedin.com/in/sayam-stuti-shuvadarsini-8089b43a4
